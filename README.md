@@ -1,1 +1,4 @@
 # weblogic-product
+
+TEST
+TEST
