@@ -1,0 +1,20 @@
+% Definition of all components for a weblogic
+% - Installation
+% - Configuration
+
+weblogic:
+
+  support:
+    patching:
+      url:
+    product:
+      url:
+
+  version: 11
+    patches:
+      psu: 181701
+      patchids:
+        -
+        -
+        -
+  
